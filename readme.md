@@ -6,8 +6,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
-<h3 style="color:red">Not Fixed</h3>
-<h1>Cara Menggunakan :</h1>
+<h1 color="red">Not Fixed</h1>
+<h3>Cara Menggunakan :</h3>
 <ul>
     <li><p>1. Ketikan di Git Bash/CMD/Terminal <code>git clone https://github.com/arifpujinugroho/laravelableprotemplate.git</code></p></li>
     <li><p>2. Masuk ke laravel template / laravelableprotemplate</p></li>
